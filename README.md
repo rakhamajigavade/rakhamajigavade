@@ -1,3 +1,22 @@
+# 👋 Hi, I'm Rakhamaji Gawade
+
+### 🚀 Aspiring Cloud Engineer | DevOps Engineer | Machine Learning Engineer
+
+☁️ Passionate about Cloud Computing, DevOps, Automation, and AI/ML.
+
+I am an aspiring engineer who enjoys learning new technologies, building practical projects, and solving real-world problems. I am focused on developing my skills in cloud infrastructure, CI/CD automation, containerization, and machine learning.
+
+- 🔭 Currently learning **Cloud Computing, DevOps & AWS**
+- 🌱 Exploring **Docker, Kubernetes, Jenkins, Terraform & CI/CD**
+- 🤖 Interested in **Artificial Intelligence, Machine Learning & MLOps**
+- 🛠️ Building hands-on projects to strengthen my technical skills
+- 🎯 Goal: To become a skilled **Cloud / DevOps Engineer**
+- 💡 Believe in learning by building and improving every day
+- 📫 Reach me at: **your-email@example.com**
+
+⭐ *"Learn continuously. Build consistently. Improve every day."*
+Thanks for visiting my profile! 😊
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_rakhamaji_xlv_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Rakhamaji Gawade) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rakhamajigawade45@gmail.com) 
