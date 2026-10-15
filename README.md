@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Rakhamaji Gawade
 
-### 🚀 Aspiring Cloud Engineer | DevOps Engineer | Machine Learning Engineer
+### Cloud Engineer | DevOps Engineer | Machine Learning Engineer
 
 ☁️ Passionate about Cloud Computing, DevOps, Automation, and AI/ML.
 
@@ -12,7 +12,7 @@ I am an aspiring engineer who enjoys learning new technologies, building practic
 - 🛠️ Building hands-on projects to strengthen my technical skills
 - 🎯 Goal: To become a skilled **Cloud / DevOps Engineer**
 - 💡 Believe in learning by building and improving every day
-- 📫 Reach me at: **your-email@example.com**
+- 📫 Reach me at: **rakhamajigawade45@gmail.com**
 
 ⭐ *"Learn continuously. Build consistently. Improve every day."*
 Thanks for visiting my profile! 😊
